@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "nombre": "Marcelo",
+      "apellido": "Pérez",
+      "especialidad": "Cardiología",
+      "sueldo": 80000.0,
+      "edad": 35,
+      "aniosExperiencia": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Sara",
+      "apellido": "López",
+      "especialidad": "Pediatría",
+      "sueldo": 75000.0,
+      "edad": 40,
+      "aniosExperiencia": 12
+    },
+    {
+      "id": 3,
+      "nombre": "Jenny",
+      "apellido": "Gómez",
+      "especialidad": "Dermatología",
+      "sueldo": 85000.0,
+      "edad": 38,
+      "aniosExperiencia": 10
+    },
+    {
+      "id": 4,
+      "nombre": "Xavier",
+      "apellido": "Fernández",
+      "especialidad": "Ginecología",
+      "sueldo": 90000.0,
+      "edad": 45,
+      "aniosExperiencia": 15
+    },
+    {
+      "id": 5,
+      "nombre": "Fernando",
+      "apellido": "Hernández",
+      "especialidad": "Neurología",
+      "sueldo": 95000.0,
+      "edad": 42,
+      "aniosExperiencia": 11
+    },
+    {
+      "id": 6,
+      "nombre": "Gabriel",
+      "apellido": "Ruiz",
+      "especialidad": "Oftalmología",
+      "sueldo": 88000.0,
+      "edad": 37,
+      "aniosExperiencia": 9
+    },
+    {
+      "id": 7,
+      "nombre": "Veronica",
+      "apellido": "Soto",
+      "especialidad": "Ortopedia",
+      "sueldo": 92000.0,
+      "edad": 39,
+      "aniosExperiencia": 13
+    },
+    {
+      "id": 8,
+      "nombre": "María",
+      "apellido": "Jiménez",
+      "especialidad": "Psiquiatría",
+      "sueldo": 87000.0,
+      "edad": 36,
+      "aniosExperiencia": 7
+    },
+    {
+      "id": 9,
+      "nombre": "Marcela",
+      "apellido": "Cruz",
+      "especialidad": "Urología",
+      "sueldo": 91000.0,
+      "edad": 41,
+      "aniosExperiencia": 14
+    },
+    {
+      "id": 10,
+      "nombre": "Fabian",
+      "apellido": "Molina",
+      "especialidad": "Endocrinología",
+      "sueldo": 89000.0,
+      "edad": 43,
+      "aniosExperiencia": 16
+    }
+  ]
+  
